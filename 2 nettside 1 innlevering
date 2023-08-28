@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>1.Oblig_1.Nettside</title>
+  <meta lang="no">
+  <meta charset="utf-8">
+</head>
+
 <body>
-<h1> viner0602</h1>
-<p> Jeg gikk på Lambertseter Videregående skole. Jeg likte matte, tysk og biologi mest av alle fagene.</p>
-</body>
+  <h1> viner0602</h1>
+  <p> Jeg gikk på Lambertseter Videregående skole. Jeg likte matte, tysk og biologi mest av alle fagene.</p>
+  <h1> sieri2440</h1>
+  <p> Min videregående het Rosenvile. Rundt 1000 elever gikk på denne skolen. Her var det en rekke linjer</p> 
+  </body>
 </html>
