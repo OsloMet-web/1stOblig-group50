@@ -1,6 +1,3 @@
-h1, h2 {
-    background-color: rgb(235, 235, 235);
-}
-body {
-    background-color: rgb(245, 245, 245);
+h3.student { /*Yellow-ish bg for h3's with class student*/
+    background-color: #FFF26A;
 }
